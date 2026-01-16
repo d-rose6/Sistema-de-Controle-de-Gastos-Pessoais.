@@ -1,0 +1,47 @@
+[
+    {
+        "nome": "Mercado Central",
+        "valor": 450.0,
+        "categoria": "ALIMENTAÇÃO"
+    },
+    {
+        "nome": "Internet Fibra",
+        "valor": 120.0,
+        "categoria": "CONTAS FIXAS"
+    },
+    {
+        "nome": "Padaria",
+        "valor": 35.5,
+        "categoria": "ALIMENTAÇÃO"
+    },
+    {
+        "nome": "Energia Elétrica",
+        "valor": 180.0,
+        "categoria": "CONTAS FIXAS"
+    },
+    {
+        "nome": "Uber Trabalho",
+        "valor": 25.0,
+        "categoria": "TRANSPORTE"
+    },
+    {
+        "nome": "Restaurante Almoço",
+        "valor": 60.0,
+        "categoria": "ALIMENTAÇÃO"
+    },
+    {
+        "nome": "Manutenção Carro",
+        "valor": 350.0,
+        "categoria": "TRANSPORTE"
+    },
+    {
+        "nome": "Assinatura Stream",
+        "valor": 40.0,
+        "categoria": "LAZER"
+    },
+    {
+        "nome": "Fármacia ",
+        "valor": 85.0,
+        "categoria": "SAÚDE"
+    }
+]
